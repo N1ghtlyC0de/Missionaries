@@ -75,7 +75,7 @@ if len(estado["izq"]["M"]) == 3 and len(estado["izq"]["C"]) == 3 and lado == "Iz
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/misioneros-canibales.git
+   git clone https://github.com/N1ghtlyC0de/Missionaries.git
    ```
 2. Navigate to the project folder:
    ```bash
