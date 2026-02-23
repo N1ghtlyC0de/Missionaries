@@ -65,8 +65,8 @@ if len(estado["izq"]["M"]) == 3 and len(estado["izq"]["C"]) == 3 and lado == "Iz
 ---
 
 ## 📂 Repository Contents
-- **State Representation Diagrams** (`State_Rep.svg`, `Graph-Definitions.svg`)  
-- **Graph Solution** (`Graph-Solution_Graph.svg`)  
+- **State Representation Diagrams** (`Definitions_Graph.svg`)  
+- **Graph Solution** (`Solution_Graph.svg`)  
 - **Python Implementation**: State validation, transitions, and solution search  
 - **Documentation**: Explanation of graph modeling and algorithmic approach  
 
