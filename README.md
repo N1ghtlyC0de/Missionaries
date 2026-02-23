@@ -79,9 +79,9 @@ if len(estado["izq"]["M"]) == 3 and len(estado["izq"]["C"]) == 3 and lado == "Iz
    ```
 2. Navigate to the project folder:
    ```bash
-   cd misioneros-canibales
+   cd Missionaries
    ```
 3. Run the Python script:
    ```bash
-   python main.py
+   python M&C.py
    ```
