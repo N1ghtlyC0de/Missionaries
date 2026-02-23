@@ -79,7 +79,7 @@ if len(estado["izq"]["M"]) == 3 and len(estado["izq"]["C"]) == 3 and lado == "Iz
    ```
 2. Navigate to the project folder:
    ```bash
-   cd Missionaries
+   cd Missionaries-main
    ```
 3. Run the Python script:
    ```bash
