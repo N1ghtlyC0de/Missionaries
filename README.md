@@ -81,7 +81,12 @@ if len(estado["izq"]["M"]) == 3 and len(estado["izq"]["C"]) == 3 and lado == "Iz
    ```bash
    cd Missionaries-main
    ```
-3. Run the Python script:
+3. Install dependecies:
+   '''bash
+   pip install -r requirements.txt
+   '''
+   
+5. Run the Python script:
    ```bash
    python M&C.py
    ```
